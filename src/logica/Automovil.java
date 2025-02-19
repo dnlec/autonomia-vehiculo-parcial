@@ -1,6 +1,7 @@
 package logica;
 
-public class Automovil extends Vehiculo{
+public class Automovil extends Vehiculo
+{
 	
 	public Automovil(double cilindraje, double peso, double tamanoTanque)
 	{
